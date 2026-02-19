@@ -1,0 +1,21 @@
+body {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.counter-button {
+  background-color: rgb(25, 135, 84);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.counter-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  background-color: rgb(200, 200, 200);
+  align-items: center;
+}
